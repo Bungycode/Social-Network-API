@@ -29,8 +29,8 @@
   ## License 
   The application is covered under the ISC license.
   
-  ## Deployable Site
-  https://bungycode.github.io/Social-Network-API/
+  ## Walkt-through Link
+  https://drive.google.com/file/d/1mwm5AKYTcom19SGoXdHRDQ4BbSVPdIGN/view?usp=sharing
 
   ## Questions
   You can search for my repo on GitHub by entering Bungycode and you can view my projects at https://github.com/Bungycode. If you have any questions, please contact me at thedevandrew@gmail.com
