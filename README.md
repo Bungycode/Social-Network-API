@@ -29,7 +29,7 @@
   ## License 
   The application is covered under the ISC license.
   
-  ## Complete Walk-through Link
+  ## Complete Walk-through Video Link
   https://drive.google.com/file/d/1mwm5AKYTcom19SGoXdHRDQ4BbSVPdIGN/view?usp=sharing
   
   ## Walk-through Video
